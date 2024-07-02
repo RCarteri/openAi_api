@@ -27,6 +27,6 @@ In the Complete OpenAI API Course, we will teach you about how to use OpenAI's A
 
 - Use [Streamlit & Create Web Interfaces](https://rc-openai.streamlit.app/) and Websites for Your AI Models [file here](8-OpenAi_recomendation_streamlit.py)
 
-Here you can watch a demo of the Web Application made with [Streamlit](https://streamlit.io/)
+[Here](files/demo.mp4) you can watch a video demo of the Web Application made with [Streamlit](https://streamlit.io/)
 
-![Here](files/demo.mp4)
+![Here](files/demo.png)
