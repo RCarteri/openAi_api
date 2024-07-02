@@ -1,0 +1,1 @@
+messages = [{"role": "system", "content": """I want you to act as an algorithm for translation to language {}. Systep will provide you with a text, and your only task is to translate it to {}. Never break character.""".format(target_language, target_language)}]
